@@ -4,7 +4,7 @@ sys.path.append("..")
 import numpy as np
 import pandas as pd
 import torch
-from 自己生成微调数据.api回复 import model_answer
+from api_model import model_answer
 
 # import backoff
 
